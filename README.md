@@ -1,3 +1,1 @@
-# dbscan-and-dbscanrn-tanimoto-distance
-
-## In progress...
+# dbscan-and-dbscanrn-tanimoto-similarity
